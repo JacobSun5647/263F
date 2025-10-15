@@ -1,0 +1,14 @@
+
+Open main.py.
+Enter your input information, including:
+Nodal positions
+Spring constants
+The nodes connected by each spring
+Free nodes (unconstrained nodes)
+
+Run main.py.
+The program will compute the motion of the spring network as a function of time and display the results.
+
+Output
+The simulation will show the shape of the spring network changing over time.
+It will also plot the y-coordinates of all free nodes as a function of time.
