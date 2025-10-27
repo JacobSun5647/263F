@@ -1,1 +1,6 @@
-
+Run the Main.py file, it will generate 6 plots
+the 1st and 2nd plots is the shape of the beam
+the 3rd plot is the time history of max y displacement
+the 4th plot is the force sweep form 20N to 20000N vs. max y displacement using simplicit simulation
+the 5th plot is the force sweep form 20N to 20000N vs. max y displacement using beam theory
+the 6th plot the the combined plot of 4th and 5th plot
